@@ -17,6 +17,19 @@
   Minhas principais linguagens são JavaScript e Progress4GL.
 </p>
 
+<h3 align = "left">
+  Stack:
+</h3>
+
+<div alignt = "left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "25" title = "JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height = "25" title = "PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"       height = "25" title = "JavaScript"/>           
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"         height = "25" title = "Node.Js"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"           height = "25" title = "HTML5"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"               height = "25" title = "Git"/>
+</div>    
+
 <picture align = "left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhyNatan/WhyNatan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhyNatan/WhyNatan/output/github-contribution-grid-snake.svg">
