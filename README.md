@@ -1,7 +1,7 @@
 <h3 align = "left"> Prazer, Natanael :) </h1>
 
 <p align = "left"> 
-  Formado em Sistemas de Informação com Graduação na Estácio, possuo experiências com Gerenciamento de Projetos, programação em Open Edge Progress 4GL, Desenvolvimento de sistemas, Banco de Dados, Node.Js, Flutter e Visual Basic for Applications.
+Sou um Programador Full Stack com experiência em Gerenciamento de Projetos, Desenvolvimentos de Sistemas, Software e Banco de Dados, além de conhecimentos e experiências de programação em Node.Js, React.js, SQL, HTML/CSS, Flutter, Progress 4GL e Visual Basic for Applications.
 </p>
 
 <p align = "left">
@@ -10,11 +10,12 @@
 </p>
 
 <p align = "left">
+  Formado em Sistemas de Informação com Graduação na Estácio.
   No momento estou estudando diferentes Stacks de Javascript e desenvolvimento de Apps!
 </p>
 
 <p align = "left"> 
-  Minhas principais linguagens são JavaScript e Progress4GL.
+  Minhas principais linguagens são React.Js e JavaScript.
 </p>
 
 <h3 align = "left">
@@ -22,12 +23,18 @@
 </h3>
 
 <div alignt = "left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "25" title = "JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height = "25" title = "PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"       height = "25" title = "JavaScript"/>           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"         height = "25" title = "Node.Js"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"           height = "25" title = "HTML5"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"               height = "25" title = "Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"           height = "25" title = "JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"           height = "25" title = "TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                     height = "25" title = "React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" height = "25" title = "React Navigation"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"                   height = "25" title = "SQLite"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"           height = "25" title = "PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"                 height = "25" title = "Flutter"/>           
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"                   height = "25" title = "Node.Js"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"                     height = "25" title = "HTML5"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"                       height = "25" title = "CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"                   height = "25" title = "Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                         height = "25" title = "Git"/>
 </div>    
 
 <picture align = "left">
